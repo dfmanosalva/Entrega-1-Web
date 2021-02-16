@@ -1,51 +1,51 @@
 .blue {
-    background-color: #002d62;
+  background-color: #002d62;
 }
 
 #logosm {
-    max-height: 8.5vh;
+  max-height: 8.5vh;
 }
 #logomd {
-    max-height: 10vh;
+  max-height: 10vh;
 }
 
 .principal {
-    margin-top: 2vh;
-    position: relative;
+  margin-top: 2vh;
+  position: relative;
 }
 
 #profilepic {
-    max-height: 40vh;
-    width: auto;
+  max-height: 40vh;
+  width: auto;
 }
 
 .text-align-justify {
-    text-align: justify;
+  text-align: justify;
 }
 
 /* Usado para cambiar el tamaño de los iframe y que sean responsive */
 .videoWrapper {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    height: 0;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
 }
 .videoWrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .padding-bottom {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .blue p {
-    color: #ffffff;
-    margin: 0;
+  color: #ffffff;
+  margin: 0;
 }
 
 .text-white {
-    color: #ffffff;
+  color: #ffffff;
 }
